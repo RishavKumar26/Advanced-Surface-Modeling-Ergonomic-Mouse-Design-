@@ -1,21 +1,30 @@
-Advanced Surface Modeling: Ergonomic Mouse Design
+# Advanced Surface Modeling: Ergonomic Mouse Design
+
+**Author:** [Rishav Kumar](https://github.com/RishavKumar26)
+IIT (ISM) Dhanbad
+**Software:** SOLIDWORKS
+
+## 1. Project Overview
+
 This project details the process of designing a highly ergonomic computer mouse using advanced surfacing techniques within SOLIDWORKS. The primary goal was to create complex, organic contours that maximize user comfort, resulting in a model ready for manufacturing analysis and physical prototyping.
 
-Key Design Highlights:
-Advanced Surfacing Techniques: Utilized a comprehensive set of SOLIDWORKS surfacing tools, including:
+## 2. Key Design Highlights
 
-Boundary Surfaces: Ensuring smooth, high-quality transitions between complex curves.
+The final model was achieved through a meticulous process focusing on precision geometry and advanced surfacing.
 
-Lofts: Generating transitional shapes between different profile sections.
+### Precision Geometry Definition
+* The core structure and contours were defined using **12 primary 3D sketches and splines**, which served as the underlying framework to control the shape's curvature and flow.
 
-Surface Trims and Extends: Precisely defining the final contours and edges of the mouse body.
+### Advanced Surfacing Techniques
+A comprehensive set of SOLIDWORKS surfacing tools was utilized to create the complex, high-quality surfaces:
+* **Boundary Surfaces:** Ensured smooth, high-quality transitions between complex curves.
+* **Lofts:** Generated transitional shapes between different profile sections.
+* **Surface Trims & Extends:** Precisely defined the final contours and edges of the mouse body.
 
-Precision Geometry Definition: The core structure and contours were defined meticulously using:
+## 3. Final Outcome
 
-12 Primary 3D Sketches and Splines: Serving as the underlying framework to control the shape's curvature and flow.
-
-Watertight Solid Model: Successfully knitted 18 complex surfaces together to form a single, watertight solid body. This critical step converts the surface model into a robust, manufacturable solid, suitable for:
-
-Manufacturing analysis (e.g., draft analysis, mold design).
-
-Slicing and printing for 3D prototyping.
+* **Watertight Solid Model:** Successfully knitted **18 complex surfaces** together to form a single, watertight solid body.
+* **Manufacturing Ready:** This critical step converts the surface model into a robust, manufacturable solid, suitable for further analysis such as:
+    * Draft analysis
+    * Mold design
+    * Physical prototyping
